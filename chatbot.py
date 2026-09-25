@@ -4,7 +4,7 @@ print("==================================")
 print("     WELCOME TO AI CHATBOT       ")
 print("==================================")
 print("Type 'exit' or 'bye' to stop the chat.\n")
-
+#response to chatbot
 responses = {
     "hello": "Hello! How can I help you today?",
     "hi": "Hi there! How are you?",
